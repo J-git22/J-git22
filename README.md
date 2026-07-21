@@ -1,56 +1,77 @@
-📌 About Me
+## 📌 About Me
+
+* 🎓 **BSc. Information Technology Student** at Kwame Nkrumah University of Science and Technology (KNUST), Ghana.
+
+* 💻 **Aspiring Software Developer & IT Enthusiast** passionate about building practical software systems, modern web applications, and continuously expanding my knowledge across different areas of Information Technology.
+
+* ☕ **Programming Journey:** Learning Java, Object-Oriented Programming, Spring Boot, and backend development while strengthening my problem-solving and software engineering skills.
+
+* 🌐 **Web Development:** Building responsive, user-friendly websites with HTML, CSS, JavaScript, and modern design principles.
+
+* 🌐 **Networking Enthusiast:** Exploring computer networking, network infrastructure, and how software interacts with modern communication systems.
+
+* 🗄️ **Database & Systems:** Interested in SQL, database design, system analysis, software architecture, and creating scalable applications.
+
+* 🚀 **Builder at Heart:** I enjoy turning ideas into real, functional digital experiences—from business websites like **Vical Freshly Squeezed** and **Sahaqq Luxuries** to Java desktop applications and backend systems.
+
+* 🛠️ **Current Project:** Developing **SiteSnap**, a website recreation and frontend analysis tool that studies publicly accessible frontend structures to understand how modern websites are designed and implemented.
+
+* 🧠 **Learning Philosophy:** I believe the best way to learn technology is by building projects, experimenting with new ideas, learning from mistakes, and continuously improving.
+
 ---
 
-- 🎓 **BSc. Information Technology Student** at KNUST, Ghana.
+## 🧠 Focus Areas
 
-- 💻 **Core Focus:** Building practical software systems, modern business websites, and continuously strengthening my programming fundamentals.
+* ☕ Java & Object-Oriented Programming
+* 🍃 Spring Boot & Backend Development
+* 🌐 Web Development (HTML, CSS & JavaScript)
+* 🗄️ SQL & Database Systems
+* 🌐 Computer Networking
+* 📊 System Analysis & Software Design
+* 🧩 Computational Problem Solving
+* 🔒 Software Engineering Best Practices
+* 🛠️ Git & GitHub
 
-- ☕ **Programming Journey:** Exploring Java and Object-Oriented Programming while developing my problem-solving and software development skills.
-
-- 🌐 **Web Development:** Creating modern and visually appealing websites using HTML, CSS, and JavaScript.
-
-- 🚀 **Builder at Heart:** I enjoy turning ideas into functional digital experiences — from **Vical Freshly Squeezed** and **Sahaqq Luxuries** to Java-based systems.
-
-- 🛠️ **Current Project:** Currently developing **SiteSnap**, a website recreation and frontend analysis tool that explores how websites can be analyzed and rebuilt from their publicly accessible frontend structure.
-
-- 🧠 **Learning Philosophy:** I learn by building, breaking things, understanding my mistakes, and trying again.
-
-🧠 My Focus Areas
 ---
 
-- Java & Object-Oriented Programming (OOP)
-- Spring Boot & Backend Development
-- Web Development & UI/UX
-- SQL & Database Systems
-- Computational Problem Solving
-- Software System Design
+## 🚀 Featured Projects
 
-🚀 Projects & Things I've Built
+* 🧃 **Vical Freshly Squeezed** — Modern business website for a fresh juice company.
+
+* 🌸 **Sahaqq Luxuries** — Premium e-commerce website for a luxury perfume brand.
+
+* 🛠️ **SiteSnap** *(In Development)* — Website recreation and frontend analysis tool.
+
+* 🏧 **ATM Simulator** — Java Object-Oriented Programming project simulating ATM operations.
+
+* 📚 **Library Management System** — Desktop application for managing library resources and borrowing records.
+
+* 📦 **Inventory Management System** — Inventory tracking and stock management application.
+
+* 🎓 **Student Performance Analytics System** — Academic performance analysis and CWA tracking system.
+
 ---
 
-- 🧃 **Vical Freshly Squeezed:** A modern website for a fresh juice business.
+## 📚 Beyond the Code
 
-- 🌸 **Sahaqq Luxuries:** A modern perfume business website focused on a premium digital experience.
+When I'm not coding, you'll probably find me:
 
-- 🏧 **ATM Simulator:** A Java-based ATM simulation built using Object-Oriented Programming.
+* ✍🏽 Writing stories and building fictional worlds.
+* 🎶 Listening to and appreciating chorale music.
+* 🏛️ Exploring mythology, folklore, and legends from different cultures.
+* 📜 Reading about world history and historical events.
+* 📚 Getting lost in compelling novels and fictional universes.
 
-- 📚 **Library Management System:** A system designed to manage library operations and records.
-
-- 🎓 **Student Performance Systems:** Exploring systems for academic performance analysis and CWA tracking.
-
-- 🛠️ **SiteSnap:** A website recreation and frontend analysis tool currently in development.
-
-📚 Beyond the Code
 ---
 
-- ✍🏽 **Storyteller:** I enjoy writing stories and creating worlds through words.
+## 🎯 Current Goals
 
-- 🎶 **Chorale Music Lover:** I have a deep appreciation for chorale music and the beauty of harmonies.
+* 🚀 Become a skilled Backend & Software Developer.
+* 🌐 Deepen my knowledge of Computer Networking.
+* ☁️ Learn cloud technologies and modern deployment practices.
+* 🤝 Contribute to open-source projects.
+* 💡 Build software that solves real-world problems.
 
-- 🏛️ **Mythology Enthusiast:** Fascinated by the myths, legends, and folklore of different cultures around the world.
+---
 
-- 📜 **History Curious:** I have a keen interest in history and enjoy exploring the events and stories that shaped the world.
-
-- 📚 **Fiction Lover:** Always drawn to fictional worlds, compelling stories, and imaginative ideas.
-
-- 🚀 **Current Mindset:** Learn. Build. Improve.
+> **"Learn. Build. Improve. Repeat."** 🚀
